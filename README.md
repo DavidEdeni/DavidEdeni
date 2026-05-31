@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm David Edeni.<img src="wavinghand.gif" height="50px" width="50px"></h1>
+<h1 align="center">Hey, I'm David Edeni<img src="wavinghand.gif" height="50px" width="50px"></h1>
 
 We make:
 

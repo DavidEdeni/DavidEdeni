@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm David Edeni<img src="wavinghand.gif" height="50px" width="50px"></h1>
-<img src="banner.gif"
+<img src="banner.png"
 
 I build autonomous AI systems and software automation tools. My focus centers on computer engineering and deploying practical intelligence.
 

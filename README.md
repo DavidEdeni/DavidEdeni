@@ -31,6 +31,6 @@ I build autonomous AI systems and software automation tools. My focus centers on
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=DavidEdeni&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=DavidEdeni&icon=0&color=808080)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

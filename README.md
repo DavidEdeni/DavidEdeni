@@ -28,8 +28,6 @@ I build autonomous AI systems and software automation tools. My focus centers on
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DavidEdeni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DavidEdeni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DavidEdeni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies

@@ -3,21 +3,21 @@
 
 I build autonomous AI systems and software automation tools. My focus centers on computer engineering and deploying practical intelligence.
 
-### Current Focus
+# Current Focus
 
 * Developing AI agents with Model Context Protocol (MCP) and Claude Code
 * Studying Computer Engineering at the University of Texas at San Antonio
 * Optimizing developer workflows with command-line automation
 
 
-### Core Skills
+# Core Skills
 
 * Autonomous Agent Architecture
 * Software Automation
 * System Design
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/Linktree-%2343E55E.svg?logo=linktree&logoColor=white)](https://linktr.ee/davidedeni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactdavidedeni@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@davidedeni) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://snapchat.com/add/davidedeni7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@david_edeni_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_edeni_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/david.edeni.2025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidedeni) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/david_2_cold) 
 
 
@@ -30,7 +30,7 @@ I build autonomous AI systems and software automation tools. My focus centers on
 ![](https://github-readme-stats.shion.dev/api?username=DavidEdeni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DavidEdeni&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
 ---

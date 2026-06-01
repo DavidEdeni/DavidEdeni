@@ -30,9 +30,6 @@ I build autonomous AI systems and software automation tools. My focus centers on
 ![](https://github-readme-stats.shion.dev/api?username=DavidEdeni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidEdeni&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=DavidEdeni&icon=0&color=13)](https://visitcount.itsvg.in)
 
